@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ralywalu.github.io/sitemap.html.gz
+Sitemap: https://ralywalu.github.io/app/sitemap.html.gz
+Sitemap: https://ralywalu.github.io/assets/sitemap.html.gz
+Sitemap: https://ralywalu.github.io/css/sitemap.html.gz
+Sitemap: https://ralywalu.github.io/includes/sitemap.html.gz
+Sitemap: https://ralywalu.github.io/item/sitemap.html.gz
+Sitemap: https://ralywalu.github.io/src/sitemap.html.gz
